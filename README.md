@@ -1,3 +1,15 @@
-Group project realised in two weeks.
+># 👥 Group project
+>
+>🏃 Sprint : 2 weeks
+>
 
-We had to create a chrome extension using Javascript, CSS and HTML.
+># 📚 Used stack
+>🌐 JavaScript CSS HTML
+>
+
+># 📑 Project guidlines
+>
+>🧩 Create a chrome extension
+>
+
+
